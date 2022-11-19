@@ -327,3 +327,6 @@ label_alias:
   toy_penguin:
     zh: [ "玩具企鹅" ]
     en: [ "toy penguin" ]
+  squirrel:
+    zh: [ "松鼠" ]
+    en: [ "squirrel" ]
