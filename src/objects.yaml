@@ -333,3 +333,7 @@ label_alias:
   squirrel:
     zh: [ "松鼠" ]
     en: [ "squirrel" ]
+  banana_in_a_basket:
+    zh: ["篮子中香蕉", "篮子中的香蕉"]
+    en: ["banana in a basket"]
+    
