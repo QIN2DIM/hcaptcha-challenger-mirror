@@ -306,6 +306,9 @@ label_alias:
   ladybug:
     zh: [ "七星瓢虫","瓢虫" ]
     en: [ "ladybug","ladybug with seven stars" ]
+  chicken:
+    zh: ["鸡", "一只鸡"]
+    en: ["chicken"]
   chicken_on_the_beach:
     zh: [ "每张海滩上包含一只鸡的图片","沙滩上的鸡" ]
     en: [ "chicken on the beach" ]
