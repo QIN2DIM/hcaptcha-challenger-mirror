@@ -201,7 +201,7 @@ label_alias:
     en: [ "item that a person normally wears on their pants" ]
   dangerous_sea:
     zh: [ "危险海域","危险海洋","波涛汹涌的大海" ]
-    en: [ "dangerous sea", "rough sea", "stormy sea" ]
+    en: [ "dangerous sea", "rough sea" ]
   calm_sea:
     zh: [ "平静海域","平静海洋","平静海面" ]
     en: [ "calm sea" ]
@@ -306,9 +306,6 @@ label_alias:
   ladybug:
     zh: [ "七星瓢虫","瓢虫" ]
     en: [ "ladybug","ladybug with seven stars" ]
-  chicken:
-    zh: ["鸡", "一只鸡"]
-    en: ["chicken"]
   chicken_on_the_beach:
     zh: [ "每张海滩上包含一只鸡的图片","沙滩上的鸡" ]
     en: [ "chicken on the beach" ]
@@ -333,7 +330,6 @@ label_alias:
   squirrel:
     zh: [ "松鼠" ]
     en: [ "squirrel" ]
-  banana_in_a_basket:
-    zh: ["篮子中香蕉", "篮子中的香蕉"]
-    en: ["banana in a basket"]
-    
+  hedgehog_surrounded_by_flowers:
+    zh: ["被鲜花包围的刺猬"]
+    en: ["hedgehog surrounded by flowers"]
